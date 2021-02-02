@@ -8,4 +8,6 @@ const app = express();
 app.listen(3000, function () {
   // When the server is ready, call this function
   console.log('the app is listening at', 3000);
+
+  // killall  -9 node
 });
