@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Johnshandsable/cullen-server/issues"
   },
-  "homepage": "https://github.com/Johnshandsable/cullen-server#readme"
+  "homepage": "https://github.com/Johnshandsable/cullen-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
